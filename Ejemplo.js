@@ -4,3 +4,10 @@ function Sumar(a,b){
 
 console.log(Sumar(2,4))
 console.log(Sumar(3,4))
+
+//funcion dividir
+function Dividir(a,b){
+    return a/b
+}
+
+console.log(Dividir(10,2))
